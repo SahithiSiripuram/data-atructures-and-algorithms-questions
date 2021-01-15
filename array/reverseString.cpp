@@ -3,7 +3,7 @@
 using namespace std;
 #define FIO ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
 #define ull unsigned long long
-#define ll long long
+#define ll long long 
 string reverseWord(string str)
 {
 /* 
